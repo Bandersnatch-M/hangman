@@ -35,4 +35,4 @@ def hangman(word):
         print("\n".join(stages[0:wrong]))
         
 
-hangman("work")
+hangman("hope")
